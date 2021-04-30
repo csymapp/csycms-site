@@ -1,0 +1,4 @@
+User-agent: * 
+Disallow: 
+Allow: / 
+Sitemap: csycms.csymapp.com/sitemap.xml 
