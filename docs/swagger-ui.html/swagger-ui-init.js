@@ -18,7 +18,7 @@ window.onload = function() {
       "contact": {
         "name": "The Developer",
         "email": "brian@cseco.co.ke?subject=csycms REST API",
-        "url": "http://csycms.csymapp.com"
+        "url": "https://cseco.co.ke"
       },
       "license": {
         "name": "Apache License Version 2.0",
